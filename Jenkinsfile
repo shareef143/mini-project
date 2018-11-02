@@ -8,6 +8,5 @@ stage('testing pipeline'){
                 sh 'touch from-jenkins/test.txt'
                 }
            }
-
 }
 }
